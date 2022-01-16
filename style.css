@@ -36,21 +36,21 @@ p{
 
 header{
     display:flex;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 500px;
 }
-.colorControl {
+.colorController{
     margin-right: 10px;
     font-weight: bold;
     font-size: 20px;
 }
 
-.colorControl:hover{
-    color:#1e90ff;
+.colorController:hover{
+    color:#1E90ff;
     cursor:pointer;
 }
 .name{
-    color:#1e90ff;
+    color:#1E90ff;
     font-weight: bold;
 }
 .active {

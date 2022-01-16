@@ -6,7 +6,7 @@ let simple = document.querySelector("#simple")
 let simpleIsOn = true;
 let hexIsOn = false;
 
-let simpleColors = ["red", "blue", "magenta", "black", "orange", "pink", "green"]
+let simpleColors = ["red", "blue", "turquoise", "magenta", "yellow", "orange", "pink", "green"]
 
 hex.addEventListener("click", function () {
     hex.classList.add("active")
